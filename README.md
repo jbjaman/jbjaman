@@ -1,21 +1,21 @@
-<img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/coverImageLinkedIn.png"/>
+<!-- <img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/coverImageLinkedIn.png"/> -->
+<h1>⚡Jubayer Bin Jaman</h1>
+<h3>Full Stack Software Engineer, AI & Automation Developer</h3>
 <div >
 <a target="_blank" href="https://linkedin.com/in/jbjzeehad/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://facebook.com/zeinexhub"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
 <a target="_blank" href="https://stackoverflow.com/users/21117227/jubayer-bin-jaman"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
 <a target="_blank" href="https://www.youtube.com/channel/UC34yNyrKajr4EW7yrUQxc4g"><img src="https://img.shields.io/youtube/channel/subscribers/UC34yNyrKajr4EW7yrUQxc4g"/></a>
 </div>
+<hr/>
+<!-- <h3 align="center">Hey! Nice to see you</h3> -->
 
-<h3 align="center">Hey! Nice to see you</h3>
-
-<p align="center">I'm Jubayer from Bangladesh. A self-taught and hard-working person with a huge love and passion for Full Stack Software Engineering.</p>
-
-<p align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat"/></a></p>
+<!-- <p>I'm Jubayer from Bangladesh. A self-taught and hard-working person with a huge love and passion for Full Stack Software Engineering.</p> -->
 
 - 🌱 *I’m currently Working on some projects and learning new technologies.*
 - 🗣️ *" Consistency is the key! "*
 - 👆 *Social links to reach me closely.*
-
+<p align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat"/></a></p>
 
 <p align="center">
     <a href="https://github.com/jbjzeehad/github-readme-streak-stats"><img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=transparent&hide_border=true&stroke=0000"/></a>
