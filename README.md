@@ -1,5 +1,5 @@
 <!-- <img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/coverImageLinkedIn.png"/> -->
-<h1>⚡Jubayer Bin Jaman</h1>
+<h1>🤝Jubayer Bin Jaman</h1>
 <h3>Full Stack Software Engineer, AI & Automation Developer</h3>
 <div >
 <a target="_blank" href="https://linkedin.com/in/jbjzeehad/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
@@ -12,7 +12,7 @@
 
 <!-- <p>I'm Jubayer from Bangladesh. A self-taught and hard-working person with a huge love and passion for Full Stack Software Engineering.</p> -->
 
-- 🌱 *I’m currently Working on some projects and learning new technologies.*
+<!-- - 🌱 *I’m currently Working on some projects and learning new technologies.* -->
 - 🗣️ *" Consistency is the key! "*
 - 👆 *Social links to reach me closely.*
 <p align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat"/></a></p>
