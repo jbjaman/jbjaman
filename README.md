@@ -7,8 +7,8 @@
 
 - 🌱 *Learning Advanced Backend & System Design*
 - 💻 *Full-Stack Web Developer & Problem Solver*
-- 🚀 *Future Software Entrepreneur*
-- 🗣️ *" Consistency is the key! "*
+- 🚀 *Explore my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Portfolio</a> *and my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Resume</a>
+- 📬 *Feel free to reach me out jbjaman98@gmail.com*
 - 👇 *Social links to reach me closely.*
 
 <a target="_blank" href="https://jbjzeehad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%241070B5.svg?logo=Vercel&logoColor=white"/></a>
