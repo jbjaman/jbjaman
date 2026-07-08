@@ -1,18 +1,14 @@
 <img title="" alt="" src="https://github.com/jbjaman/jbjaman/blob/main/coverImageLinkedIn.png"/>
 <p align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjaman&label=Profile%20views&color=0e75b6&style=flat"/></a></p>
-<p align="center">Hi 👋, I'm Jubayer. Nice to see you.
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+PostgreSQL;Always+Learning+New+Technologies" />
+<p align="center">Hi 👋, I'm Jubayer.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Problem+Solver;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+PostgreSQL;Always+Learning+New+Technologies" />
 </p>
 <div >
 
-- 🔭 Working on Full Stack Projects
-- 🌱 Learning Advanced Backend & System Design
-- 💻 MERN Stack Developer
-- 🚀 Future Software Entrepreneur
-- 📍 Dhaka, Bangladesh
-    
+- 🌱 *Learning Advanced Backend & System Design*
+- 💻 *Full-Stack Web Developer & Problem Solver*
+- 🚀 *Future Software Entrepreneur*
 - 🗣️ *" Consistency is the key! "*
-- 🌱 *I’m currently Working on some projects and learning new technologies.*
 - 👇 *Social links to reach me closely.*
 
 <a target="_blank" href="https://linkedin.com/in/jbjaman/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white"/></a>
@@ -48,13 +44,13 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Vite-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/ExpressJS-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/NodeJS-Dark.svg" width="25" height="25"/></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/GraphQL-Dark.svg" width="25" height="25"/></a>.
+<!-- <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/GraphQL-Dark.svg" width="25" height="25"/></a>. -->
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Firebase-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MySQL-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/PostgreSQL-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MongoDB.svg" alt="html" width="25" height=25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/mongoose.svg" alt="html" width="25" height="25"/></a>.
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Docker.svg" alt="html" width="25" height="25"/></a>.
+  <!-- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Docker.svg" alt="html" width="25" height="25"/></a>. -->
   <!-- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/AWS-Dark.svg" alt="html" width="25" height="25"/></a>. -->
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Git.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Github-Dark.svg" alt="html" width="25" height="25"/></a>
