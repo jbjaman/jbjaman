@@ -7,9 +7,9 @@
 - 🌱 *I’m currently Working on some projects and learning new technologies.*
 - 👇 *Social links to reach me closely.*
 
-<a target="_blank" href="https://linkedin.com/in/jbjaman/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://linkedin.com/in/jbjaman/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://facebook.com/zeinexhub"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
-<a target="_blank" href="https://x.com/zeinexhub"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+<a target="_blank" href="https://x.com/intent/follow?screen_name=zeinexhub"><img src="https://img.shields.io/badge/Twitter-%231810.svg?logo=x&logoColor=white"/></a>
 <a target="_blank" href="https://www.youtube.com/channel/UC34yNyrKajr4EW7yrUQxc4g"><img src="https://img.shields.io/youtube/channel/subscribers/UC34yNyrKajr4EW7yrUQxc4g"/></a>
 <!-- <a target="_blank" href="https://stackoverflow.com/users/21117227/jubayer-bin-jaman"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a> -->
 
