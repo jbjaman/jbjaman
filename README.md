@@ -1,8 +1,8 @@
-<!-- <img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/coverImageLinkedIn.png"/> -->
+<img title="" alt="" src="https://github.com/jbjaman/jbjaman/blob/main/coverImageLinkedIn.png"/>
 <h1>🤝Jubayer Bin Jaman</h1>
-<h3>Full Stack Software Engineer, AI & Automation Developer</h3>
+<h3>Software Engineer | Problem Solver</h3>
 <div >
-<a target="_blank" href="https://linkedin.com/in/jbjzeehad/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://linkedin.com/in/jbjaman/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://facebook.com/zeinexhub"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
 <a target="_blank" href="https://stackoverflow.com/users/21117227/jubayer-bin-jaman"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
 <a target="_blank" href="https://www.youtube.com/channel/UC34yNyrKajr4EW7yrUQxc4g"><img src="https://img.shields.io/youtube/channel/subscribers/UC34yNyrKajr4EW7yrUQxc4g"/></a>
@@ -15,17 +15,17 @@
 <!-- - 🌱 *I’m currently Working on some projects and learning new technologies.* -->
 - 🗣️ *" Consistency is the key! "*
 - 👆 *Social links to reach me closely.*
-<p align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat"/></a></p>
+<p align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjaman&label=Profile%20views&color=0e75b6&style=flat"/></a></p>
 
 <p align="center">
-    <a href="https://github.com/jbjzeehad/github-readme-streak-stats"><img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=transparent&hide_border=true&stroke=0000"/></a>
+    <a href="https://github.com/jbjaman/github-readme-streak-stats"><img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjaman&theme=transparent&hide_border=true&stroke=0000"/></a>
     </p> 
 <p align="center">
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/C.svg" alt="html" width="25" height="25"/></a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjaman/jbjaman/blob/main/icon/C.svg" alt="html" width="25" height="25"/></a>
   <!-- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/CPP.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Python-Dark.svg" alt="html" width="25" height="25"/></a> -->
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/JavaScript.svg" alt="html" width="25" height="25"/></a>
- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/TypeScript.svg" alt="html" width="25" height="25"/></a>.
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjaman/jbjaman/blob/main/icon/JavaScript.svg" alt="html" width="25" height="25"/></a>
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjaman/jbjaman/blob/main/icon/TypeScript.svg" alt="html" width="25" height="25"/></a>.
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/HTML.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/CSS.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/TailwindCSS-Dark.svg" alt="html" width="25" height="25"/></a>
@@ -51,7 +51,7 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Premiere.svg" alt="html" width="25" height="25"/></a>
   </p>  
   <p align="center">
-  <img title="" alt="" src="https://github-profile-trophy.vercel.app/?username=jbjzeehad&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/>
+  <img title="" alt="" src="https://github-profile-trophy.vercel.app/?username=jbjaman&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/>
     </p>
 
 
