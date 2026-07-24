@@ -5,8 +5,8 @@
 </p>
 <div >
 
-- 🌱 *Learning Advanced Backend & System Design*
-- 💻 *Full-Stack Web Developer & Problem Solver*
+<!-- - 🌱 *Learning Advanced Backend & System Design*
+- 💻 *Full-Stack Web Developer & Problem Solver* -->
 - 🚀 *Explore my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Portfolio</a> *and my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Resume</a>
 - 📬 *Feel free to reach me out jbjaman98@gmail.com*
 - 👇 *Social links to reach me closely.*
