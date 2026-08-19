@@ -5,8 +5,7 @@
 </p>
 <div >
 
-<!-- - 🌱 *Learning Advanced Backend & System Design*
-- 💻 *Full-Stack Web Developer & Problem Solver* -->
+
 - 🚀 *Explore my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Portfolio</a> *and my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Resume</a>
 - 📬 *Feel free to reach me out jbjaman98@gmail.com*
 - 👇 *Social links to reach me closely.*
@@ -31,8 +30,7 @@
     </p> 
 <p align="center">
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjaman/jbjaman/blob/main/icon/C.svg" alt="html" width="25" height="25"/></a>
-  <!-- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/CPP.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Python-Dark.svg" alt="html" width="25" height="25"/></a> -->
+  
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjaman/jbjaman/blob/main/icon/JavaScript.svg" alt="html" width="25" height="25"/></a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjaman/jbjaman/blob/main/icon/TypeScript.svg" alt="html" width="25" height="25"/></a>.
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/HTML.svg" alt="html" width="25" height="25"/></a>
