@@ -5,7 +5,6 @@
 </p>
 <div >
 
-
 - 🚀 *Explore my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Portfolio</a> *and my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Resume</a>
 - 📬 *Feel free to reach me out jbjaman98@gmail.com*
 - 👇 *Social links to reach me closely.*
@@ -15,22 +14,13 @@
 <a target="_blank" href="https://x.com/intent/follow?screen_name=zeinexhub"><img src="https://img.shields.io/badge/Twitter-%231811.svg?logo=x&logoColor=white"/></a>
 <a target="_blank" href="https://facebook.com/zeinexhub"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
 <a target="_blank" href="https://www.youtube.com/channel/UC34yNyrKajr4EW7yrUQxc4g"><img src="https://img.shields.io/youtube/channel/subscribers/UC34yNyrKajr4EW7yrUQxc4g"/></a>
-<!-- <a target="_blank" href="https://stackoverflow.com/users/21117227/jubayer-bin-jaman"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a> -->
-
 </div>
-<!-- <hr/> -->
-<!-- <h3 align="center">Hey! Nice to see you</h3> -->
-
-<!-- <p>I'm Jubayer from Bangladesh. A self-taught and hard-working person with a huge love and passion for Full Stack Software Engineering.</p> -->
-
-<!-- - 🌱 *I’m currently Working on some projects and learning new technologies.* -->
 
 <p align="center">
     <a href="https://github.com/jbjaman/github-readme-streak-stats"><img title="" alt="" src="https://streak-stats.demolab.com/?user=jbjaman&theme=transparent&hide_border=true&stroke=0000"/></a>
     </p> 
 <p align="center">
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjaman/jbjaman/blob/main/icon/C.svg" alt="html" width="25" height="25"/></a>
-  
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjaman/jbjaman/blob/main/icon/JavaScript.svg" alt="html" width="25" height="25"/></a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjaman/jbjaman/blob/main/icon/TypeScript.svg" alt="html" width="25" height="25"/></a>.
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/HTML.svg" alt="html" width="25" height="25"/></a>
@@ -43,14 +33,11 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Vite-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/ExpressJS-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/NodeJS-Dark.svg" width="25" height="25"/></a>
-<!-- <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/GraphQL-Dark.svg" width="25" height="25"/></a>. -->
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Firebase-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MySQL-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/PostgreSQL-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MongoDB.svg" alt="html" width="25" height=25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/mongoose.svg" alt="html" width="25" height="25"/></a>.
-  <!-- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Docker.svg" alt="html" width="25" height="25"/></a>. -->
-  <!-- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/AWS-Dark.svg" alt="html" width="25" height="25"/></a>. -->
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Git.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Github-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/VSCode-Dark.svg" alt="html" width="25" height="25"/></a>.
