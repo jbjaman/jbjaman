@@ -1,4 +1,4 @@
-<img title="" alt="" src="https://github.com/jbjaman/jbjaman/blob/main/coverImageLinkedIn.png"/>
+<!-- <img title="" alt="" src="https://github.com/jbjaman/jbjaman/blob/main/coverImageLinkedIn.png"/> -->
 <p align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjaman&label=Profile%20views&color=0e75b6&style=flat"/></a></p>
 <p align="center">Hi 👋, I'm Jubayer.
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Problem+Solver;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+PostgreSQL;Always+Learning+New+Technologies" />
@@ -17,34 +17,61 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/jbjaman/github-readme-streak-stats"><img title="" alt="" src="https://streak-stats.demolab.com/?user=jbjaman&theme=transparent&hide_border=true&stroke=0000"/></a>
-    </p> 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+</p>
+
 <p align="center">
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjaman/jbjaman/blob/main/icon/C.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjaman/jbjaman/blob/main/icon/JavaScript.svg" alt="html" width="25" height="25"/></a>
- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjaman/jbjaman/blob/main/icon/TypeScript.svg" alt="html" width="25" height="25"/></a>.
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/HTML.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/CSS.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/TailwindCSS-Dark.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Figma-Dark.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/React-Dark.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Redux.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/NextJS-Dark.svg" alt="html" width="25" height="25"/></a>.
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Vite-Dark.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/ExpressJS-Dark.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/NodeJS-Dark.svg" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Firebase-Dark.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MySQL-Dark.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/PostgreSQL-Dark.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MongoDB.svg" alt="html" width="25" height=25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/mongoose.svg" alt="html" width="25" height="25"/></a>.
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Git.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Github-Dark.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/VSCode-Dark.svg" alt="html" width="25" height="25"/></a>.
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Photoshop.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Premiere.svg" alt="html" width="25" height="25"/></a>
-  </p>  
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jbjaman&theme=tokyo-night&hide_border=true"/>
-    ⭐ Thanks for visiting my profile! ⭐
+  <table border="0" cellspacing="0" cellpadding="0">
+    <!-- Header Banner Row -->
+    <tr>
+      <td colspan="2" align="center" valign="middle">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=150&section=header&text=GitHub%20Activity&fontSize=35&animation=twinkle" width="100%" />
+      </td>
+    </tr>
+    <!-- Row 1: Streak Stats & General Stats -->
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbjaman&theme=tokyonight&hide_border=true" height="175" />
+      </td>
+      <td align="center" valign="middle" style="padding: 5px;">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=jbjaman&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="175" />
+      </td>
+    </tr>
+    <!-- Row 2: Top Languages & Profile Details -->
+    <tr>
+      <td align="center" valign="middle" style="padding: 5px;">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jbjaman&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="175" />
+      </td>
+      <td align="center" valign="middle" style="padding: 5px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbjaman&theme=tokyonight" height="175" />
+      </td>
+    </tr>
+      <tr>
+      <td colspan="2" align="center" valign="middle">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbjaman&theme=tokyonight&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
 </p>
