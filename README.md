@@ -24,9 +24,14 @@
   </table>
 </p>
 </div>
+
 <p align="center">
   <table border="0" cellspacing="0" cellpadding="0">
-    <!-- Category 1: Languages -->
+    <tr>
+      <td colspan="2" align="center" valign="middle">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=header&text=Skills%20And%20Technologies&fontSize=35&fontColor=bb9af7&animation=twinkle" width="100%" />
+      </td>
+    </tr>
     <tr>
       <td align="left" valign="middle"><b>Languages</b></td>
       <td align="left" valign="middle">
@@ -85,14 +90,10 @@
         <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black" />
       </td>
     </tr>
-  </table>
-</p>
-<p align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
     <!-- Header Banner Row -->
     <tr>
       <td colspan="2" align="center" valign="middle">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=150&section=header&text=GitHub%20Activity&fontSize=35&animation=twinkle" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=header&text=GitHub%20Activities&fontSize=35&fontColor=bb9af7&animation=twinkle" width="100%" />
       </td>
     </tr>
     <!-- Row 1: Streak Stats & General Stats -->
