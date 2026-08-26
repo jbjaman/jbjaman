@@ -10,9 +10,9 @@
 - 👇 *Social links to reach me closely.*
 
 <p align="center">
-  <table border="0" cellspacing="0" cellpadding="5">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="right" valign="middle"><b>Connect with Me</b></td>
+      <td align="left" valign="middle"><b>Connect with Me</b></td>
       <td align="left" valign="middle">
         <a target="_blank" href="https://jbjzeehad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1070B5?style=flat&logo=vercel&logoColor=white"/></a>
         <a target="_blank" href="https://linkedin.com/in/jbjaman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -24,53 +24,65 @@
   </table>
 </p>
 </div>
-
 <p align="center">
-  <table border="0" cellspacing="0" cellpadding="5">
+  <table border="0" cellspacing="0" cellpadding="0">
     <!-- Category 1: Languages -->
     <tr>
-      <td align="right" valign="middle"><b>Languages</b></td>
+      <td align="left" valign="middle"><b>Languages</b></td>
       <td align="left" valign="middle">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
       </td>
     </tr>
     <!-- Category 2: Frameworks & Libraries -->
     <tr>
-      <td align="right" valign="middle"><b>Frameworks & Libraries</b></td>
+      <td align="left" valign="middle"><b>Frameworks & Libraries</b></td>
       <td align="left" valign="middle">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
       </td>
     </tr>
-    <!-- Category 3: Databases & ORM -->
+    <!-- Category 3: Databases & Services -->
     <tr>
-      <td align="right" valign="middle"><b>Databases & ORM</b></td>
+      <td align="left" valign="middle"><b>Databases & Services</b></td>
       <td align="left" valign="middle">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
       </td>
     </tr>
     <!-- Category 4: Tools & Design -->
     <tr>
-      <td align="right" valign="middle"><b>Tools & Design</b></td>
+      <td align="left" valign="middle"><b>Tools & Design</b></td>
       <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
         <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" />
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
+      </td>
+    </tr>
+    <!-- Category 5: Competitive Programming -->
+    <tr>
+      <td align="left" valign="middle"><b>Competitive Programming</b></td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
+        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black" />
       </td>
     </tr>
   </table>
