@@ -1,32 +1,33 @@
-<!-- <img title="" alt="" src="https://github.com/jbjaman/jbjaman/blob/main/coverImageLinkedIn.png"/> -->
-<p align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjaman&label=Profile%20views&color=0e75b6&style=flat"/></a></p>
-<p align="center">Hi 👋, I'm Jubayer.
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Problem+Solver;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+PostgreSQL;Always+Learning+New+Technologies" />
-</p>
-<div >
-
-- 🚀 *Explore my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Portfolio</a> *and my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Resume</a>
-- 📬 *Feel free to reach me out jbjaman98@gmail.com*
-- 👇 *Social links to reach me closely.*
-
 <p align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="left" valign="middle"><b>Connect with Me</b></td>
-      <td align="left" valign="middle">
+      <td colspan="2" align="center" valign="middle">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=header&text=Jubayer%20Bin%20Jaman&fontSize=35&fontColor=bb9af7&animation=twinkle" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="middle">
+        <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3500&pause=3000&center=true&vCenter=true&width=900&lines=Software+Engineer;Problem+Solver;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+PostgreSQL;Always+Learning+New+Technologies" />
+</p>
+        <p align="center" valign="middle">
         <a target="_blank" href="https://jbjzeehad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1070B5?style=flat&logo=vercel&logoColor=white"/></a>
         <a target="_blank" href="https://linkedin.com/in/jbjaman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
         <a target="_blank" href="https://x.com/intent/follow?screen_name=zeinexhub"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/></a>
         <a target="_blank" href="https://facebook.com/zeinexhub"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
         <a target="_blank" href="https://www.youtube.com/channel/UC34yNyrKajr4EW7yrUQxc4g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+      </p>
+        <p align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjaman&label=Profile%20views&color=0e75b6&style=flat"/></a></p>
+        
+<div align="left">
+
+- 🚀 *Explore my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Portfolio</a> *and my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Resume</a>
+- 📬 *Feel free to reach me out jbjaman98@gmail.com*
+- 👇 *Social links to reach me closely.*
+
+</div>
       </td>
     </tr>
-  </table>
-</p>
-</div>
-
-<p align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td colspan="2" align="center" valign="middle">
         <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=header&text=Skills%20And%20Technologies&fontSize=35&fontColor=bb9af7&animation=twinkle" width="100%" />
