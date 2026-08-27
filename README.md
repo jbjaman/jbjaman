@@ -2,13 +2,13 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td colspan="2" align="center" valign="middle">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=header&text=Jubayer%20Bin%20Jaman&fontSize=35&fontColor=bb9af7&animation=twinkle" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=80&section=header&text=JUBAYER%20BIN%20JAMAN&fontSize=35&fontColor=bb9af7&animation=twinkle" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="middle">
         <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3500&pause=3000&center=true&vCenter=true&width=900&lines=Software+Engineer;Problem+Solver;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+PostgreSQL;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2000&pause=3000&center=true&vCenter=true&width=900&lines=Software+Engineer;Problem+Solver;Full-Stack+Web+Developer;" />
 </p>
         <p align="center" valign="middle">
         <a target="_blank" href="https://jbjzeehad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1070B5?style=flat&logo=vercel&logoColor=white"/></a>
@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center" valign="middle">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=header&text=Skills%20And%20Technologies&fontSize=35&fontColor=bb9af7&animation=twinkle" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=70&section=header&text=Skills%20And%20Technologies&fontSize=25&fontColor=bb9af7&animation=twinkle" width="100%" />
       </td>
     </tr>
     <tr>
@@ -94,7 +94,7 @@
     <!-- Header Banner Row -->
     <tr>
       <td colspan="2" align="center" valign="middle">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=header&text=GitHub%20Activities&fontSize=35&fontColor=bb9af7&animation=twinkle" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=70&section=header&text=GitHub%20Activities&fontSize=25&fontColor=bb9af7&animation=twinkle" width="100%" />
       </td>
     </tr>
     <!-- Row 1: Streak Stats & General Stats -->
