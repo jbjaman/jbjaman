@@ -1,36 +1,29 @@
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=80&section=header&text=JUBAYER%20BIN%20JAMAN&fontSize=35&fontColor=bb9af7&animation=twinkle" width="100%" /> -->
+
 <p align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td colspan="2" align="center" valign="middle">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=80&section=header&text=JUBAYER%20BIN%20JAMAN&fontSize=35&fontColor=bb9af7&animation=twinkle" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a370f7,100:7aa2f7&height=160&section=header&text=JUBAYER%20BIN%20JAMAN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&descColor=bb9af7" width="100%"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="middle">
-        <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2000&pause=3000&center=true&vCenter=true&width=900&lines=Software+Engineer;Problem+Solver;Full-Stack+Web+Developer;" />
-</p>
+        <p align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjaman&label=Profile%20views&color=0e75b6&style=flat"/></a></p>
         <p align="center" valign="middle">
         <a target="_blank" href="https://jbjzeehad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1070B5?style=flat&logo=vercel&logoColor=white"/></a>
         <a target="_blank" href="https://linkedin.com/in/jbjaman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
         <a target="_blank" href="https://x.com/intent/follow?screen_name=zeinexhub"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/></a>
         <a target="_blank" href="https://facebook.com/zeinexhub"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
         <a target="_blank" href="https://www.youtube.com/channel/UC34yNyrKajr4EW7yrUQxc4g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-      </p>
-        <p align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjaman&label=Profile%20views&color=0e75b6&style=flat"/></a></p>
-        
-<div align="left">
-
-- 🚀 *Explore my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Portfolio</a> *and my* <a target="_blank" href="https://jbjzeehad.vercel.app/">Resume</a>
-- 📬 *Feel free to reach me out jbjaman98@gmail.com*
-- 👇 *Social links to reach me closely.*
-
-</div>
+      </p> 
+        <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=3000&pause=2000&color=BB9AF7&multiline=true&width=900&height=100&lines=Full-Stack+Software+Engineer+focused+on+building+scalable%2C+performant%2C+and+user+centric+web+applications.;Experienced+in+developing+modern+web+systems+using+TypeScript%2C+React%2C+Next.js%2C+Node.js%2C+Express.js%2C+PostgreSQL%2C+and+MongoDB.;Passionate+about+clean+architecture%2C+system+design%2C+and+solving+real+world+problems+through+efficient+software+solutions.;Continuously+advancing+expertise+in+Data+Structures+and+Algorithms%2C+backend+architecture%2C+and+product-driven+engineering.;" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="middle">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=70&section=header&text=Skills%20And%20Technologies&fontSize=25&fontColor=bb9af7&animation=twinkle" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a370f7,100:7aa2f7&height=50&section=footer&text=Skills%20And%20Technologies&fontSize=25&fontColor=bb9af7&animation=twinkle" width="100%" />
       </td>
     </tr>
     <tr>
@@ -94,8 +87,7 @@
     <!-- Header Banner Row -->
     <tr>
       <td colspan="2" align="center" valign="middle">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=70&section=header&text=GitHub%20Activities&fontSize=25&fontColor=bb9af7&animation=twinkle" width="100%" />
-      </td>
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a370f7,100:7aa2f7&height=50&section=footer&text=Github%20Activities&fontSize=25&fontColor=bb9af7&animation=twinkle" width="100%" /></td>
     </tr>
     <!-- Row 1: Streak Stats & General Stats -->
     <tr>
@@ -117,7 +109,7 @@
     </tr>
       <tr>
       <td colspan="2" align="center" valign="middle">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbjaman&theme=tokyonight&hide_border=true" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a370f7,100:7aa2f7&height=50&section=footer&desc=💜%20Thanks%20For%20Visiting%20My%20Profile%20💜&descAlignY=55&descSize=16&fontColor=bb9af7" width="100%"/>
       </td>
     </tr>
   </table>
