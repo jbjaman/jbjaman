@@ -1,5 +1,3 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=80&section=header&text=JUBAYER%20BIN%20JAMAN&fontSize=35&fontColor=bb9af7&animation=twinkle" width="100%" /> -->
-
 <p align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -18,7 +16,7 @@
         <a target="_blank" href="https://www.youtube.com/channel/UC34yNyrKajr4EW7yrUQxc4g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
       </p> 
         <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=3000&pause=2000&color=BB9AF7&multiline=true&width=900&height=100&lines=Full-Stack+Software+Engineer+focused+on+building+scalable%2C+performant%2C+and+user+centric+web+applications.;Experienced+in+developing+modern+web+systems+using+TypeScript%2C+React%2C+Next.js%2C+Node.js%2C+Express.js%2C+PostgreSQL%2C+and+MongoDB.;Passionate+about+clean+architecture%2C+system+design%2C+and+solving+real+world+problems+through+efficient+software+solutions.;Continuously+advancing+expertise+in+Data+Structures+and+Algorithms%2C+backend+architecture%2C+and+product-driven+engineering.;" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&duration=6000&pause=25&color=73daca&multiline=true&width=930&height=200&lines=Software+Engineer+%26+problem+solver+focused+on+building+scalable%2c+performant%2c+and;+user+centric+systems+across+web+and+desktop+platforms.+Adaptable+across+stacks%2C+with;core+experience+in+modern+web+architecture+using+TypeScript%2C+React%2C+Next.js%2C+Node.js%2c;Express.js%2c+SQL%2c+PostgreSQL%26+MongoDB.+Passionate+about+clean+architecture%2C;+system+design%2C+and+solving+complex+real+world+problems+through+strong+fundamentals;in+Data+Structures+and+Algorithms.+Continuously+advancing+expertise+in+backend+architecture;+and+product-driven+engineering.;" />
       </td>
     </tr>
     <tr>
