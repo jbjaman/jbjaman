@@ -99,13 +99,22 @@
     </tr>
     <!-- Row 2: Top Languages & Profile Details -->
     <tr>
-      <td align="center" valign="middle" style="padding: 5px;">
+      <td align="center" valign="middle">
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jbjaman&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="175" />
       </td>
-      <td align="center" valign="middle" style="padding: 5px;">
+      <td align="center" valign="middle">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbjaman&theme=tokyonight" height="175" />
       </td>
     </tr>
+    <!-- Last Row -->
+    <tr>
+       <td align="center" valign="middle"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jbjaman&theme=tokyonight&utcOffset=6" height="150">
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jbjaman&theme=tokyonight" height="150"> &nbsp;&nbsp;&nbsp; 
+      </td>
+    </tr>
+    <!-- Finished Row -->
       <tr>
       <td colspan="2" align="center" valign="middle">
         <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a370f7,100:7aa2f7&height=50&section=footer&desc=💜%20Thanks%20For%20Visiting%20My%20Profile%20💜&descAlignY=55&descSize=16&fontColor=bb9af7" width="100%"/>
