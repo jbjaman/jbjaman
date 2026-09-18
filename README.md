@@ -108,10 +108,10 @@
     </tr>
     <!-- Last Row -->
     <tr>
-       <td align="center" valign="middle"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jbjaman&theme=tokyonight&utcOffset=6" height="150">
+       <td align="center" valign="middle"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jbjaman&theme=tokyonight&utcOffset=6" height="175">
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jbjaman&theme=tokyonight" height="150"> &nbsp;&nbsp;&nbsp; 
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jbjaman&theme=tokyonight" height="175"> 
       </td>
     </tr>
     <!-- Finished Row -->
