@@ -16,7 +16,7 @@
         <a target="_blank" href="https://www.youtube.com/channel/UC34yNyrKajr4EW7yrUQxc4g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
       </p> 
         <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&duration=6000&pause=25&color=73daca&multiline=true&width=930&height=150&lines=Software+Engineer+%26+problem+solver+focused+on+building+scalable%2c+performant%2c+and;+user+centric+systems+across+web+and+desktop+platforms.+Passionate+about+clean+architecture%2C;+system+design%2C+and+solving+complex+real+world+problems+through+strong+fundamentals;in+Data+Structures+and+Algorithms.+Continuously+advancing+expertise+in+backend+architecture;+and+product-driven+engineering.;" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&duration=6000&pause=25&color=73daca&multiline=true&loop=1&width=930&height=150&lines=Software+Engineer+%26+problem+solver+focused+on+building+scalable%2c+performant%2c+and;+user+centric+systems+across+web+and+desktop+platforms.+Passionate+about+clean+architecture%2C;+system+design%2C+and+solving+complex+real+world+problems+through+strong+fundamentals;in+Data+Structures+and+Algorithms.+Continuously+advancing+expertise+in+backend+architecture;+and+product-driven+engineering.;" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
